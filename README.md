@@ -2,10 +2,6 @@
 
 [![ReelBench AI短剧工作台首屏](assets/reelbench-first-screen.png)](https://reelbench.79px.com/)
 
-有兴趣的加我：**微信 `hao_dev`**
-
-<img src="assets/wechat.png" alt="烁皓微信二维码" width="180">
-
 # shuohao-skills
 
 **AI 短剧制作的 skill 集合**：从一本小说到直接喂生成管线的制作素材——拆角色、排大纲、出场景与道具设定、写剧本、切分镜。给 AI 编码 agent 用，**Claude Code 和 codex 都能跑**。
@@ -23,6 +19,14 @@
 | [**novel-storyboard**](skills/novel-storyboard) | 给 AI 短剧出分镜：段（一次生成 ≤15 秒）→ 分镜（2–5 秒硬门）→ 分镜图（主图钉 0.00 秒、子图钉各自切点），MiniMax H3 提示词的对齐指令与切点时刻逐字对账；分镜图拿设定图当参考图真出图，export 一键出投产包。17 道质量门全部脚本检查 |
 
 **五个 skill 的报告都支持中英双语界面**：默认中文，`render --lang en` 出全英文报告（数据内容保持原文）。
+
+## AI 短剧交流社群
+
+这是作者独立运营的付费交流群，讨论 AI 短剧的工作流、工具和实操。**交流群与上方 ReelBench AI 视频工作台是两项独立服务。**
+
+有兴趣的加我：**微信 `hao_dev`**，添加时备注 **`github`**。
+
+<img src="assets/wechat.png" alt="烁皓微信二维码" width="180">
 
 ## 合成一张单页
 
