@@ -1,17 +1,10 @@
-> 🎬 **[AI视频工作台](https://reelbench.79px.com/)**
->
-> [![ReelBench AI短剧工作台首屏](assets/reelbench-first-screen.jpg)](https://reelbench.79px.com/)
+🎬 **[AI视频工作台](https://reelbench.79px.com/)**
 
-**中文** · [English](README.en.md)
+[![ReelBench AI短剧工作台首屏](assets/reelbench-first-screen.png)](https://reelbench.79px.com/)
 
-> 👋 **找工作 / 合作** — 作者目前在空窗期，这个仓库就是业余的一点小探索。
-> 有缘的朋友欢迎联系。**远程工作**之外，也接受**半合作**——每月几千块生活费 + 利润分成。如有必要，FED的话，也是可以考虑到场出差。希望在AI浪潮下，能找到同频朋友一起做点事情。
-> 个人简历：**[resume.79px.com](https://resume.79px.com)**
-> 
-> 我建了一个 **AI 短剧交流群**（付费），聊 AI 短剧的工作流、工具和实操。
-> 有兴趣的加我：**微信 `hao_dev`**，添加时**备注 `github`**。
->
-> <img src="assets/wechat.png" alt="烁皓微信二维码" width="180">
+有兴趣的加我：**微信 `hao_dev`**
+
+<img src="assets/wechat.png" alt="烁皓微信二维码" width="180">
 
 # shuohao-skills
 
