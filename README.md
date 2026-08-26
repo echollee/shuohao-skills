@@ -1,3 +1,5 @@
+**中文** · [English](README.en.md)
+
 🎬 **[AI视频工作台](https://reelbench.79px.com/)**
 
 [![ReelBench AI短剧工作台首屏](assets/reelbench-first-screen.png)](https://reelbench.79px.com/)
