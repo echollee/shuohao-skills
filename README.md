@@ -1,3 +1,7 @@
+> 🎬 **[AI视频工作台](https://reelbench.79px.com/)**
+>
+> [![ReelBench AI短剧工作台首屏](assets/reelbench-first-screen.jpg)](https://reelbench.79px.com/)
+
 **中文** · [English](README.en.md)
 
 > 👋 **找工作 / 合作** — 作者目前在空窗期，这个仓库就是业余的一点小探索。
